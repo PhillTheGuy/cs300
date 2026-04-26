@@ -1,1 +1,2 @@
 # CS300
+The problems being solved with the projects in the organized printing and search systems of a classes course list in C++. The way i approached it was useing BST as it was one of the best ways for this job and it will always maintain the same organizatioal structure. the main roadblocks where time and my dyslexia and even with time my dyslexia made me stop what i was doing and to push it off.
